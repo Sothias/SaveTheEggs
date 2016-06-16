@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 7e1a99a9739322049996b73c068f09ce
+timeCreated: 1454847304
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: clouds_0
+    21300002: clouds_1
+    21300004: clouds_2
+    21300006: clouds_3
+    21300008: clouds_4
+    21300010: clouds_5
+    21300012: clouds_6
+    21300014: clouds_7
+    21300016: clouds_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: clouds_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 414
+        width: 192
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 104.5}
+        - {x: -45, y: 104.5}
+        - {x: -96, y: 33.5}
+        - {x: -96, y: -37.5}
+        - {x: -61, y: -90.5}
+        - {x: -26, y: -104.5}
+        - {x: 34, y: -104.5}
+        - {x: 57, y: -88.5}
+        - {x: 96, y: -29.5}
+        - {x: 96, y: 38.5}
+    - name: clouds_1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 421
+        width: 289
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.5, y: 78.5}
+        - {x: 51.5, y: 81.5}
+        - {x: -19.5, y: 81.5}
+        - {x: -93.5, y: 50.5}
+        - {x: -121.5, y: 12.5}
+        - {x: -144.5, y: -2.5}
+        - {x: -144.5, y: -44.5}
+        - {x: -137.5, y: -58.5}
+        - {x: -81.5, y: -81.5}
+        - {x: 64.5, y: -81.5}
+        - {x: 103.5, y: -66.5}
+        - {x: 144.5, y: -27.5}
+        - {x: 144.5, y: 10.5}
+    - name: clouds_2
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 414
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.5, y: 63.5}
+        - {x: 25.5, y: 94.5}
+        - {x: -36.5, y: 94.5}
+        - {x: -94.5, y: 50.5}
+        - {x: -94.5, y: -15.5}
+        - {x: -73.5, y: -75.5}
+        - {x: -18.5, y: -94.5}
+        - {x: 46.5, y: -94.5}
+        - {x: 77.5, y: -61.5}
+        - {x: 94.5, y: -22.5}
+        - {x: 94.5, y: 46.5}
+    - name: clouds_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 246
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 62.5}
+        - {x: 67, y: 90.5}
+        - {x: -45, y: 90.5}
+        - {x: -91, y: 70.5}
+        - {x: -123, y: 41.5}
+        - {x: -123, y: -12.5}
+        - {x: -111, y: -33.5}
+        - {x: -75, y: -68.5}
+        - {x: -47, y: -90.5}
+        - {x: 17, y: -90.5}
+        - {x: 72, y: -78.5}
+        - {x: 123, y: -46.5}
+        - {x: 123, y: 10.5}
+    - name: clouds_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 225
+        width: 249
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.5, y: 60}
+        - {x: 62.5, y: 82}
+        - {x: -27.5, y: 82}
+        - {x: -123.5, y: 3}
+        - {x: -124.5, y: 1}
+        - {x: -124.5, y: -44}
+        - {x: -73.5, y: -82}
+        - {x: 23.5, y: -82}
+        - {x: 33.5, y: -80}
+        - {x: 111.5, y: -59}
+        - {x: 124.5, y: -30}
+        - {x: 124.5, y: 31}
+    - name: clouds_5
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 223
+        width: 257
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.5, y: 76.5}
+        - {x: 44.5, y: 80.5}
+        - {x: -28.5, y: 80.5}
+        - {x: -110.5, y: 45.5}
+        - {x: -128.5, y: -8.5}
+        - {x: -128.5, y: -55.5}
+        - {x: -108.5, y: -70.5}
+        - {x: -62.5, y: -71.5}
+        - {x: -33.5, y: -80.5}
+        - {x: 72.5, y: -80.5}
+        - {x: 103.5, y: -66.5}
+        - {x: 128.5, y: -50.5}
+        - {x: 128.5, y: 1.5}
+    - name: clouds_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 14
+        width: 190
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 86.5}
+        - {x: -95, y: 26.5}
+        - {x: -95, y: -56.5}
+        - {x: -87, y: -68.5}
+        - {x: -47, y: -86.5}
+        - {x: 29, y: -86.5}
+        - {x: 77, y: -68.5}
+        - {x: 95, y: -34.5}
+        - {x: 95, y: 32.5}
+        - {x: 44, y: 86.5}
+    - name: clouds_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 14
+        width: 237
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 115.5, y: -54.5}
+        - {x: 118.5, y: -39.5}
+        - {x: 118.5, y: 54.5}
+        - {x: 95.5, y: 70.5}
+        - {x: 30.5, y: 94.5}
+        - {x: -37.5, y: 94.5}
+        - {x: -56.5, y: 90.5}
+        - {x: -118.5, y: 39.5}
+        - {x: -118.5, y: -4.5}
+        - {x: -112.5, y: -20.5}
+        - {x: -93.5, y: -82.5}
+        - {x: -58.5, y: -94.5}
+        - {x: 1.5, y: -94.5}
+        - {x: 7.5, y: -89.5}
+        - {x: 24.5, y: -94.5}
+        - {x: 87.5, y: -94.5}
+    - name: clouds_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 271
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 135.5, y: 18}
+        - {x: 85.5, y: 83}
+        - {x: 26.5, y: 101}
+        - {x: -59.5, y: 101}
+        - {x: -98.5, y: 62}
+        - {x: -108.5, y: 29}
+        - {x: -135.5, y: 0}
+        - {x: -135.5, y: -42}
+        - {x: -124.5, y: -60}
+        - {x: -68.5, y: -96}
+        - {x: -59.5, y: -101}
+        - {x: 35.5, y: -101}
+        - {x: 53.5, y: -99}
+        - {x: 112.5, y: -71}
+        - {x: 135.5, y: -38}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 23a8b31f3c7d29046b21d30b8debb350
+timeCreated: 1454331731
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ghost-dead
+    21300002: ghost-dead_0
+    21300004: ghost-dead_1
+    21300006: ghost-dead_2
+    21300008: ghost-dead_3
+    21300010: ghost-dead_4
+    21300012: ghost-dead_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ghost-dead_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 115
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 67}
+        - {x: -57.5, y: 37}
+        - {x: -57.5, y: -48}
+        - {x: -41.5, y: -67}
+        - {x: 34.5, y: -67}
+        - {x: 57.5, y: -59}
+        - {x: 57.5, y: 55}
+        - {x: 27.5, y: 67}
+    - name: ghost-dead_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 145
+        width: 115
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 67}
+        - {x: -57.5, y: 37}
+        - {x: -57.5, y: -48}
+        - {x: -41.5, y: -67}
+        - {x: 34.5, y: -67}
+        - {x: 57.5, y: -59}
+        - {x: 57.5, y: 55}
+        - {x: 27.5, y: 67}
+    - name: ghost-dead_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 144
+        width: 115
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 67}
+        - {x: -57.5, y: 37}
+        - {x: -57.5, y: -48}
+        - {x: -41.5, y: -67}
+        - {x: 34.5, y: -67}
+        - {x: 57.5, y: -59}
+        - {x: 57.5, y: 55}
+        - {x: 27.5, y: 67}
+    - name: ghost-dead_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 115
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 67}
+        - {x: -57.5, y: 37}
+        - {x: -57.5, y: -48}
+        - {x: -41.5, y: -67}
+        - {x: 34.5, y: -67}
+        - {x: 57.5, y: -59}
+        - {x: 57.5, y: 55}
+        - {x: 27.5, y: 67}
+    - name: ghost-dead_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 115
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 67}
+        - {x: -57.5, y: 43}
+        - {x: -57.5, y: -46}
+        - {x: -55.5, y: -59}
+        - {x: -45.5, y: -67}
+        - {x: 46.5, y: -67}
+        - {x: 57.5, y: -64}
+        - {x: 57.5, y: 42}
+        - {x: 35.5, y: 67}
+    - name: ghost-dead_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 5
+        width: 115
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 67}
+        - {x: -36.5, y: 67}
+        - {x: -48.5, y: 56}
+        - {x: -57.5, y: 28}
+        - {x: -57.5, y: -57}
+        - {x: -49.5, y: -67}
+        - {x: 32.5, y: -67}
+        - {x: 57.5, y: -57}
+        - {x: 57.5, y: 31}
+        - {x: 47.5, y: 62}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
